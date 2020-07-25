@@ -1,3 +1,5 @@
+In this [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&t=14s) you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
